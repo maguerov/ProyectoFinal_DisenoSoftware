@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Registro de usuarios",
+      "type": "text",
+      "id": "Field_0g85fww"
+    },
+    {
+      "label": "Full name",
+      "type": "textfield",
+      "id": "Field_1rngg02",
+      "key": "field_name"
+    },
+    {
+      "label": "ID",
+      "type": "number",
+      "id": "Field_0w582wu",
+      "key": "field_id"
+    },
+    {
+      "label": "Phone number",
+      "type": "number",
+      "id": "Field_1h51ebf",
+      "key": "field_phone"
+    },
+    {
+      "action": "submit",
+      "label": "Submit",
+      "type": "button",
+      "id": "Field_0bgsewj",
+      "key": "field_0aftmf3"
+    }
+  ],
+  "type": "default",
+  "id": "form_1"
+}

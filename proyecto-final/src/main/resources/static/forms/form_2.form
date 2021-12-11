@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Vehicle Selection",
+      "type": "text",
+      "id": "Field_1651jpb"
+    },
+    {
+      "values": [
+        {
+          "value": "monoplaza",
+          "label": "Monoplaza"
+        },
+        {
+          "label": "Sedan",
+          "value": "sedan"
+        },
+        {
+          "label": "Suburban mini",
+          "value": "suburbanMini"
+        },
+        {
+          "label": "Suburban Plus",
+          "value": "suburbanPlus"
+        },
+        {
+          "label": "Heavy suburban",
+          "value": "heavySuburban"
+        }
+      ],
+      "label": "Type",
+      "type": "select",
+      "id": "Field_1oq8g4p",
+      "key": "field_1u5xtqf"
+    }
+  ],
+  "type": "default",
+  "id": "form_2"
+}
