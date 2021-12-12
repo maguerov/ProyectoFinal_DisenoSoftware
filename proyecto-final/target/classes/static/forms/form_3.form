@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 2,
+  "components": [
+    {
+      "text": "# Confirmación de compra",
+      "type": "text",
+      "id": "Field_1wxh66j"
+    },
+    {
+      "label": "Nombre",
+      "type": "textfield",
+      "id": "Field_0dmke8i",
+      "key": "nombre"
+    },
+    {
+      "label": "Correo",
+      "type": "textfield",
+      "id": "Field_1uf538x",
+      "key": "correo"
+    },
+    {
+      "label": "Teléfono",
+      "type": "textfield",
+      "id": "Field_14qrmng",
+      "key": "telefono"
+    },
+    {
+      "label": "Vehículo adquirido",
+      "type": "textfield",
+      "id": "Field_0rgsaqe",
+      "key": "vehiculoAdquirido"
+    },
+    {
+      "action": "submit",
+      "label": "Confirmar",
+      "type": "button",
+      "id": "Field_05nyj0r",
+      "key": "field_049arg8"
+    }
+  ],
+  "type": "default",
+  "id": "Form_1u5c21y"
+}
